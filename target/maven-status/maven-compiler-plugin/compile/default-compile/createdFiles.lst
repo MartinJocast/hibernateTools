@@ -1,0 +1,12 @@
+fr\formation\inti\hibernateTools\App.class
+fr\formation\inti\dao\GenericDaoImpl.class
+fr\formation\inti\dao\EmployeeDaoImpl.class
+fr\formation\inti\dao\IEmployeeDao.class
+fr\formation\inti\entities\Employee.class
+fr\formation\inti\service\UserService.class
+fr\formation\inti\dao\IUserDao.class
+fr\formation\inti\service\EmployeeService.class
+fr\formation\inti\dao\IGenericDao.class
+fr\formation\inti\entities\Department.class
+fr\formation\inti\dao\UserDaoImpl.class
+fr\formation\inti\entities\User.class
