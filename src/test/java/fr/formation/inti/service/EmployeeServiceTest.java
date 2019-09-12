@@ -29,7 +29,7 @@ public class EmployeeServiceTest {
 	@Test
 	public void findAll() {
 		List<Employee> list = service.findAll();
-		assertEquals("List Employee", 25, list.size());	
+		assertEquals("List Employee", 26, list.size());	
 
 	}
 
